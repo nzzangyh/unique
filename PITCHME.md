@@ -10,11 +10,9 @@
 
 ---
 조아라 : ![1](https://user-images.githubusercontent.com/15644244/50468650-5e44a680-09ec-11e9-8732-8c885effb9aa.PNG)
-
 김대호 : ![2](https://user-images.githubusercontent.com/15644244/50468746-bbd8f300-09ec-11e9-8ed3-c26c2580d778.PNG)
-<br>
+<br />
 남윤한 : ![3](https://user-images.githubusercontent.com/15644244/50468760-c98e7880-09ec-11e9-8a43-fcdeee868b13.PNG)
-
 아무개 : ![4](https://user-images.githubusercontent.com/15644244/50468773-d7dc9480-09ec-11e9-92b6-25949368fc50.PNG)
 
 
