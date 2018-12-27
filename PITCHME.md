@@ -1,11 +1,12 @@
 ---
-# 팀명 UNIQUE
+# Team UNIQUE
 
 |  <center>팀원이름</center> |  <center>별명</center> |  <center>성격</center> |
 |:--------|:--------:|--------:|
-|**조아라** | <center>cell 1x2 </center> |*cell 1x3* |
-|**김대호** | <center>cell 2x2 </center> |*cell 2x3* |
-|**남윤한** | <center>cell 3x2 </center> |*cell 3x3* |
+|**조아라** | 똑똑이 |*온화함* |
+|**김대호** | 술쟁이 |*폭력적* |
+|**남윤한** | 평범이 |*조용함* |
+|**???** | 멋쟁이 |** |
 
 ---
 
