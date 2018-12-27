@@ -1,9 +1,12 @@
 ---
 # 팀명 UNIQUE
 
-팀원이름: "Welcome to Jekyll!"
-별명: 2018-11-15 18:57:28 -0400
-: jekyll update
+|  <center>팀원이름</center> |  <center>별명</center> |  <center>성격</center> |
+|:--------|:--------:|--------:|
+|**조아라** | <center>cell 1x2 </center> |*cell 1x3* |
+|**김대호** | <center>cell 2x2 </center> |*cell 2x3* |
+|**** | <center>cell 3x2 </center> |*cell 3x3* |
+
 ---
 
 ---
