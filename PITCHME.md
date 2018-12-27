@@ -5,7 +5,7 @@
 |:--------|:--------:|--------:|
 |**조아라** | <center>cell 1x2 </center> |*cell 1x3* |
 |**김대호** | <center>cell 2x2 </center> |*cell 2x3* |
-|**** | <center>cell 3x2 </center> |*cell 3x3* |
+|**남윤한** | <center>cell 3x2 </center> |*cell 3x3* |
 
 ---
 
